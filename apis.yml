@@ -1,8 +1,30 @@
 aid: xiaopangxiong
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/xiaopangxiong.png
 name: Xiaopangxiong
-description: 'Xiaopangxiong is a company surfaced as a portfolio company of softbank-vision-fund and added
-  to the API Evangelist network as a stub for enrichment. Sector: consumer. This profile is a lead awaiting
-  the enrichment pipeline.'
+description: >-
+  Xiaopangxiong (小胖熊, "small fat bear") is a Chinese B2B e-commerce platform
+  for home and office renovation materials, operated by Shanghai Miju Network
+  Technology Co., Ltd. (上海米居网络科技有限公司). The platform connects building-material
+  suppliers with renovation contractors, crew foremen, and decoration
+  companies, selling the full range of auxiliary materials (辅材) — sand,
+  cement, paint and coatings, electrical wiring, pipes, tiles, and leveling
+  supplies — through a self-operated model that spans factory-direct
+  procurement, warehousing, logistics, delivery, installation, and after-sales
+  service. Headquartered in Shanghai with service stations and warehouses in
+  Suzhou, Hangzhou, Hefei, Ningbo, Wuxi, and Jiaxing, Xiaopangxiong is backed
+  by SoftBank Vision Fund 2 and distributes primarily through its 小胖熊 mobile
+  app; the company publishes no public developer portal or API surface.
 url: https://raw.githubusercontent.com/api-evangelist/xiaopangxiong/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -12,13 +34,36 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
 - Consumer
+- B2B
+- E-Commerce
+- Building Materials
+- Home Renovation
+- Construction
+- Logistics
+- China
 apis: []
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+common:
+- type: Website
+  url: https://www.51xpx.com.cn
+- type: Support
+  url: https://www.51xpx.com.cn/contactus.php?id=navi5
+- type: Blog
+  url: https://www.51xpx.com.cn/article_cat.php?id=21
+- type: DomainSecurity
+  url: security/xiaopangxiong-domain-security.yml
+- type: LLMsTxt
+  url: llms/xiaopangxiong-llms.txt
+x-enrichment:
+  date: '2026-07-21'
+  status: minimal
+  artifacts_added: 3
+  pass: local-v1

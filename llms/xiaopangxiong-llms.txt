@@ -1,0 +1,19 @@
+# Xiaopangxiong (小胖熊)
+
+> Xiaopangxiong ("small fat bear") is a Chinese B2B e-commerce platform for home and office renovation materials, operated by Shanghai Miju Network Technology Co., Ltd. (上海米居网络科技有限公司). It connects building-material suppliers with renovation contractors, foremen, and decoration companies, selling the full range of auxiliary materials (辅材) — sand, cement, paint, wiring, pipes, tiles — through a self-operated model spanning factory-direct procurement, warehousing, logistics, delivery, installation, and after-sales service.
+
+Xiaopangxiong is headquartered in Shanghai (Jing'an district) with service stations and warehouses in Suzhou, Hangzhou, Hefei, Ningbo, Wuxi, and Jiaxing. The company is backed by SoftBank Vision Fund 2 and distributes primarily through its 小胖熊 mobile app (Android package com.nmm.smallfatbear). It publishes no public developer portal, API documentation, or open-platform program. Its web properties are hosted in mainland China and are generally unreachable from networks outside China.
+
+## Company
+
+- [Website](https://www.51xpx.com.cn): Official Xiaopangxiong site (小胖熊辅料配送 / 牛妈妈装修网; Chinese-language, China-hosted)
+- [Company news](https://www.51xpx.com.cn/article_cat.php?id=21): 公司动态 — company updates and announcements
+- [Contact](https://www.51xpx.com.cn/contactus.php?id=navi5): 联系我们 — contact page
+- [SoftBank Vision Fund portfolio entry](https://visionfund.com/portfolio/xiaopangxiong): Investor profile (SVF2, Consumer, Asia)
+
+## Notes
+
+- ICP license: 沪ICP备13027936号 (Shanghai Miju Network Technology Co., Ltd.)
+- No public API, developer documentation, SDKs, or OpenAPI specification were found for this provider as of 2026-07-21.
+
+<!-- generated: 2026-07-21 | method: generated | source: apis.yml + visionfund.com/portfolio/xiaopangxiong + www.51xpx.com.cn (via Wayback 2025-02-24) -->

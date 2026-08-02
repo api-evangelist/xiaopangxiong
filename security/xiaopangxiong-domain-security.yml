@@ -1,0 +1,32 @@
+generated: '2026-07-21'
+method: probed
+source: live DNS/TLS/HTTP probes of apis.yml hosts (probed from US egress)
+hosts:
+- host: www.51xpx.com.cn
+  https: false
+  note: >-
+    TCP 443 connection refused / timed out from US egress (150.158.238.197,
+    China-hosted). Site is live for Chinese visitors (indexed by search
+    engines; Wayback snapshot 2025-02-24 returns 200). TLS/HSTS could not be
+    observed from this vantage point.
+- host: mobile.51xpx.com
+  https: false
+  note: >-
+    TCP 443 connection refused from US egress (1.116.90.233, Tencent Cloud).
+    Not reachable from this vantage point.
+domains:
+- domain: 51xpx.com.cn
+  dnssec: false
+  caa: []
+  spf: false
+  dmarc: false
+  mx: false
+  note: >-
+    DNS queries resolved successfully (A records present for apex and www);
+    TXT/SPF, _dmarc TXT, DNSKEY, CAA, and MX answers were all empty — these
+    absences are genuine DNS data, not probe failures.
+notes: >-
+  Xiaopangxiong's web properties are hosted in mainland China and refuse
+  connections from US networks, so HTTPS-layer posture (TLS version, cert,
+  HSTS) is unobservable from this pipeline. DNS-layer posture was fully
+  probed: no DNSSEC, no CAA, no SPF, no DMARC, and no MX on 51xpx.com.cn.
