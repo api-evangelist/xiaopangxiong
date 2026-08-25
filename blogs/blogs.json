@@ -3,9 +3,12 @@
   "feeds": [
     {
       "source": "https://www.51xpx.com.cn/contactus.php?id=navi5",
-      "error": "URLError"
+      "feed_url": "https://www.51xpx.com.cn/contactus.php?id=navi5",
+      "title": "",
+      "saved": 0,
+      "method": "none"
     }
   ],
   "post_count": 0,
-  "fetched": "2026-08-06T14:08:46Z"
+  "fetched": "2026-08-22T20:20:02Z"
 }
