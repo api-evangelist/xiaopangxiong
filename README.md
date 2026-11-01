@@ -64,6 +64,81 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Xiaopangxiong is a company surfaced as a portfolio company of softbank-vision-fund and added to the API Evangelist network as a stub for enrichment. Sector: consumer. This profile is a lead awaiting the enrichment pipeline.
+Xiaopangxiong (小胖熊, "small fat bear") is a Chinese B2B e-commerce platform for home and office renovation materials, operated by Shanghai Miju Network Technology Co., Ltd. (上海米居网络科技有限公司). The platform connects building-material suppliers with renovation contractors, crew foremen, and decoration companies, selling the full range of auxiliary materials (辅材) — sand, cement, paint and coatings, electrical wiring, pipes, tiles, and leveling supplies — through a self-operated model that spans factory-direct procurement, warehousing, logistics, delivery, installation, and after-sales service. Headquartered in Shanghai with service stations and warehouses in Suzhou, Hangzhou, Hefei, Ningbo, Wuxi, and Jiaxing, Xiaopangxiong is backed by SoftBank Vision Fund 2 and distributes primarily through its 小胖熊 mobile app; the company publishes no public developer portal or API surface.
 
-Backed by: softbank-vision-fund
+**Areas:** Company · Consumer · B2B · E-Commerce · Building Materials · Home Renovation · Construction · Logistics · China
+
+## Xiaopangxiong on APIs.io
+
+Everything profiled for Xiaopangxiong is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/xiaopangxiong/](https://apis.io/providers/xiaopangxiong/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Xiaopangxiong Domain Security](https://apis.io/security/xiaopangxiong/xiaopangxiong-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.51xpx.com.cn)
+- [Support](https://www.51xpx.com.cn/contactus.php?id=navi5)
+- [Blog](https://www.51xpx.com.cn/article_cat.php?id=21)
+
+## API Evangelist rating
+
+**Kin Score 5.4** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 6.0 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/xiaopangxiong/](https://apis.io/providers/xiaopangxiong/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Xiaopangxiong: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/xiaopangxiong/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
